@@ -38,7 +38,7 @@ An online store for buying and selling car parts.
 Users can browse a wide selection of parts, filter by car model, and make secure purchases.
 
 🚀 **Technologies used:** Next.js, Tailwind CSS  
-🔗 **Visit the website:** [jrpecas.com](completepecasusadas.code-fullstack.com/)
+🔗 **Visit the website:** [jrpecas.com](https://completepecasusadas.code-fullstack.com/)
 
 <!--
 **ruiffpereira/ruiffpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
