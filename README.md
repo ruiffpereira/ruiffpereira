@@ -1,11 +1,9 @@
 ## Hi there, i'm Rui Fernandes 👋
 
-I'm a passionate Front-End Developer who loves crafting beautiful, responsive, and user-friendly web interfaces. With a strong background in HTML, CSS, and JavaScript, I enjoy turning complex problems into simple, elegant solutions. My journey in front-end development started with a curiosity for how websites are built, and it quickly turned into a full-fledged passion.
+I'm a passionate Front-End Developer who loves crafting beautiful, responsive, and user-friendly web interfaces. My journey in front-end development started with a curiosity for how websites are built, and it quickly turned into a full-fledged passion.
 
 About Me
 I thrive on bringing designs to life and ensuring that users have the best experience possible when interacting with a website. I’m constantly exploring new front-end technologies and frameworks, staying up-to-date with the latest trends to enhance my skills and deliver top-notch work.
-
-Whether it's building a dynamic single-page application, optimizing a site for performance, or creating a seamless user experience, I find joy in every step of the development process. My goal is to make the web a more beautiful, accessible, and enjoyable place, one line of code at a time.
 
 Technologies & Tools I Love
 Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript
