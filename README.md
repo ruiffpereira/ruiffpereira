@@ -17,8 +17,8 @@ Feel free to explore my repositories to see some of the projects I've worked on 
 
 A modern weather app that provides real-time weather forecasts.  
 
-🚀 **Technologies used:** React, Tailwind CSS, Weather API  
-🔗 **Live demo:** [weather.com](https://weather.code-fullstack.com/)
+🚀 **Technologies used:** React, Tailwind CSS, Weather API  <br>
+🔗 **Live Website:** [weather.com](https://weather.code-fullstack.com/)
 
 ---
 
@@ -27,8 +27,8 @@ A modern weather app that provides real-time weather forecasts.
 An admin panel designed to manage the car parts e-commerce platform.  
 It allows administrators to handle products, orders, users, and other essential business operations.
 
-🚀 **Technologies used:** Next.js, Node.js, Sequelize, MySQL, Express 
-🔗 **Access the backoffice:** [backoffice.com](https://code-fullstack.com/)
+🚀 **Technologies used:** Next.js, Node.js, Sequelize, MySQL, Express <br>
+🔗 **Live Website:** [backoffice.com](https://code-fullstack.com/)
 
 ---
 
@@ -37,8 +37,8 @@ It allows administrators to handle products, orders, users, and other essential 
 An online store for buying and selling car parts.  
 Users can browse a wide selection of parts, filter by car model, and make secure purchases.
 
-🚀 **Technologies used:** Next.js, Tailwind CSS  
-🔗 **Visit the website:** [jrpecas.com](https://completepecasusadas.code-fullstack.com/)
+🚀 **Technologies used:** Next.js, Tailwind CSS  <br>
+🔗 **Live Website:** [jrpecas.com](https://completepecasusadas.code-fullstack.com/)
 
 <!--
 **ruiffpereira/ruiffpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
