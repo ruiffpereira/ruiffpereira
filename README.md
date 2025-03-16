@@ -1,4 +1,4 @@
-# Hi there, i'm Rui Fernandes 👋
+# Hi, i'm Rui Fernandes 👋
 
 I'm a passionate Front-End Developer who loves crafting beautiful, responsive, and user-friendly web interfaces. My journey in front-end development started with a curiosity for how websites are built, and it quickly turned into a full-fledged passion.
 
