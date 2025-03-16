@@ -2,7 +2,7 @@
 
 With a Professional Course in Management and Programming of Information Systems, I have become passionate about learning programming and enjoy creating software that is useful for businesses. I focus on developing solutions that make companies more efficient and improve the quality of their work. 
 
-After completing my course, I joined CodeVision, a company dedicated to the education sector, present in more than 90% of private schools in Portugal, my home country. With a focus on SaaS software, I worked on the frontend, creating components that help automate educational processes.
+After completing my course, I joined CodeVision, a company dedicated to the education sector, present in more than 90% of private schools in Portugal, my home country. With a focus on SaaS software, called e-Schooling, I worked on the frontend, creating components that help automate educational processes.
 
 ### :gear: Technologies and Tools
 
