@@ -1,26 +1,25 @@
 # Hi, i'm Rui Fernandes 👋
 
-I'm a passionate Front-End Developer who loves crafting beautiful, responsive, and user-friendly web interfaces. My journey in front-end development started with a curiosity for how websites are built, and it quickly turned into a full-fledged passion.
+With a Professional Course in Management and Programming of Information Systems, I have become passionate about learning programming and enjoy creating software that is useful for businesses. I focus on developing solutions that make companies more efficient and improve the quality of their work. 
 
-### 🚀 Skills & Technologies  
+After completing my course, I joined CodeVision, a company dedicated to the education sector, present in more than 90% of private schools in Portugal, my home country. With a focus on SaaS software, I worked on the frontend, creating components that help automate educational processes.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+### :gear: Technologies and Tools
 
-### **Other Interests**  
-- 🎨 UI/UX Design ⚡ Web Performance Optimization ♿ Accessibility (a11y)
+![](https://img.shields.io/badge/w3c-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/w3c-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Code-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/Code-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Code-Express-000000?style=flat&logo=express&logoColor=white)
+![](https://img.shields.io/badge/VCS-Git-F05032?style=flat&logo=git&logoColor=white) 
+![](https://img.shields.io/badge/RPM-NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/RPM-Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white)
+![](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
+![](https://img.shields.io/badge/UI-Figma-F24E1E?style=flat=figma&logoColor=white) 
 
 
-### 💼 Projects  
+### :card_index_dividers: Projects
 
 - 🌤️ [Weather App](https://weather.code-fullstack.com/)
 
