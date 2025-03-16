@@ -22,9 +22,7 @@ After completing my course, I joined CodeVision, a company dedicated to the educ
 ### :card_index_dividers: Projects
 
 - 🌤️ [Weather App](https://weather.code-fullstack.com/)
-
 - 🛠️ [Backoffice for Car Parts](https://code-fullstack.com/)
-
 - 🚗 [Car Parts E-Commerce](https://completepecasusadas.code-fullstack.com/)
 
 <!--
