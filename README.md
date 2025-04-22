@@ -18,6 +18,9 @@ After completing my course, I joined CodeVision, a company dedicated to the educ
 ![](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
 ![](https://img.shields.io/badge/UI-Figma-F24E1E?style=flat=figma&logoColor=white) 
 
+### 📊 Numbers Don’t Lie
+
+![ruiffpereira's Stats](https://github-readme-stats.vercel.app/api?username=ruiffpereira&theme=react&show_icons=true&hide_border=true&count_private=true)
 
 ### :card_index_dividers: Projects
 
