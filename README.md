@@ -27,6 +27,7 @@ After completing my course, I joined CodeVision, a company dedicated to the educ
 - 🌤️ [Weather App](https://weather.code-fullstack.com/)
 - 🛠️ [Backoffice for Car Parts](https://code-fullstack.com/)
 - 🚗 [Car Parts E-Commerce](https://completepecasusadas.code-fullstack.com/)
+- 🍻 [Beer Collection Dummy Data](https://mybeercollection.code-fullstack.com/)
 
 <!--
 **ruiffpereira/ruiffpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
