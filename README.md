@@ -24,14 +24,10 @@ After completing my course, I joined CodeVision, a company dedicated to the educ
 
 ### :card_index_dividers: Projects
 
-- 🌤️ [Weather App](https://weather.code-fullstack.com/)  
-  [GitHub Repository](https://github.com/ruiffpereira/weather-app)
-- 🛠️ [Backoffice for Car Parts](https://code-fullstack.com/)  
-  [GitHub Repository](https://github.com/ruiffpereira/backoffice-car-parts)
-- 🚗 [Car Parts E-Commerce](https://completepecasusadas.code-fullstack.com/)  
-  [GitHub Repository](https://github.com/ruiffpereira/car-parts-ecommerce)
-- 🍻 [Beer Collection Dummy Data](https://mybeercollection.code-fullstack.com/)  
-  [GitHub Repository](https://github.com/ruiffpereira/beer-collection-dummy-data)
+- 🌤️ [Weather App](https://weather.code-fullstack.com/) -> [GitHub Repository](https://github.com/ruiffpereira/WeatherApp)
+- 🛠️ [Backoffice for Car Parts](https://code-fullstack.com/) -> [GitHub Repository](https://github.com/ruiffpereira/BO-FullStack)
+- 🚗 [Car Parts E-Commerce](https://completepecasusadas.code-fullstack.com/) -> [GitHub Repository](https://github.com/ruiffpereira/JRPECAS)
+- 🍻 [Beer Collection Dummy Data](https://mybeercollection.code-fullstack.com/) -> [GitHub Repository](https://github.com/ruiffpereira/beercollection)
 
 <!--
 **ruiffpereira/ruiffpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
