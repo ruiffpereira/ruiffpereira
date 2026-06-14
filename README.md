@@ -1,8 +1,10 @@
 # Hi, i'm Rui Fernandes 👋
 
-With a Professional Course in Management and Programming of Information Systems, I have become passionate about learning programming and enjoy creating software that is useful for businesses. I focus on developing solutions that make companies more efficient and improve the quality of their work. 
+With a Professional Course in Management and Programming of Information Systems, I developed a strong passion for software development and for building solutions that provide real value to businesses. I enjoy creating applications that improve efficiency, streamline processes, and help organizations work more effectively.
 
-After completing my course, I joined CodeVision, a company dedicated to the education sector, present in more than 90% of private schools in Portugal, my home country. With a focus on SaaS software, called e-Schooling, I worked on the frontend, creating components that help automate educational processes.
+After completing my studies, I joined CodeVision, a company focused on the education sector and present in more than 90% of private schools in Portugal. Working on its SaaS platform, e-Schooling, I have been responsible for developing frontend features and reusable components that help automate and improve educational processes for schools, teachers, students, and parents.
+
+More recently, I joined Celfocus, working on a Vodafone project focused on modernizing and migrating applications to React, TypeScript, and Vite. This role has allowed me to work with modern frontend technologies, improve application performance and maintainability, and gain exposure to cloud technologies such as AWS, while collaborating within large-scale enterprise environments.
 
 ### :gear: Technologies and Tools
 
@@ -24,10 +26,17 @@ After completing my course, I joined CodeVision, a company dedicated to the educ
 
 ### :card_index_dividers: Projects
 
-- 🌤️ [Weather App](https://weather.rufvision.com/) -> [GitHub Repository](https://github.com/ruiffpereira/WeatherApp)
-- 🛠️ [Backoffice for Car Parts](https://rufvision.com/) -> [GitHub Repository](https://github.com/ruiffpereira/BO-FullStack)
-- 🚗 [Car Parts E-Commerce](https://completepecasusadas.rufvision.com/) -> [GitHub Repository](https://github.com/ruiffpereira/JRPECAS)
-- 🍻 [Beer Collection Dummy Data](https://mybeercollection.rufvision.com/) -> [GitHub Repository](https://github.com/ruiffpereira/beercollection)
+- 🛠️ Personal SaaS Backoffice Platform – Multi-tenant management platform for appointments, customers, services, and business operations. Built with React, Next.js, Node.js, Express, MySQL, and Tailwind CSS.  
+  🌐 https://backoffice.rufvision.com/admin
+
+- ❄️ Winter Plateau – Modern business website built with React and Tailwind CSS, focused on performance, responsive design, and user experience.  
+  🌐 https://winterplateau.rufvision.com/
+
+- 💅 Margarida Nail Artist – Appointment booking website developed for a beauty business, featuring service presentation, contact information, and online booking functionality.  
+  🌐 https://margaridanailartist.rufvision.com/
+
+- 💈 Tiago Fernandes Barbearia – Barber shop website with service management, appointment scheduling, and responsive design optimized for mobile and desktop users.  
+  🌐 https://tiagofernandesbarbearia.rufvision.com/
 
 <!--
 **ruiffpereira/ruiffpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
