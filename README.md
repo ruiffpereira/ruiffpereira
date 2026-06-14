@@ -26,17 +26,10 @@ More recently, I joined Celfocus, working on a Vodafone project focused on moder
 
 ### :card_index_dividers: Projects
 
-- 🛠️ Personal SaaS Backoffice Platform – Multi-tenant management platform for appointments, customers, services, and business operations. Built with React, Next.js, Node.js, Express, MySQL, and Tailwind CSS.  
-  🌐 https://backoffice.rufvision.com/admin
-
-- ❄️ Winter Plateau – Modern business website built with React and Tailwind CSS, focused on performance, responsive design, and user experience.  
-  🌐 https://winterplateau.rufvision.com/
-
-- 💅 Margarida Nail Artist – Appointment booking website developed for a beauty business, featuring service presentation, contact information, and online booking functionality.  
-  🌐 https://margaridanailartist.rufvision.com/
-
-- 💈 Tiago Fernandes Barbearia – Barber shop website with service management, appointment scheduling, and responsive design optimized for mobile and desktop users.  
-  🌐 https://tiagofernandesbarbearia.rufvision.com/
+- 🛠️ [Personal SaaS Backoffice Platform](https://backoffice.rufvision.com/admin) – Full-stack SaaS application built with React, Next.js, Node.js, Express, MySQL, React Query, Zustand, and Tailwind CSS.
+- ❄️ [Winter Plateau](https://winterplateau.rufvision.com/) – Responsive business website built with React and Tailwind CSS, optimized for performance and SEO.
+- 💅 [Margarida Nail Artist](https://margaridanailartist.rufvision.com/) – Appointment booking platform developed with React and integrated with a custom backoffice system.
+- 💈 [Tiago Fernandes Barbearia](https://tiagofernandesbarbearia.rufvision.com/) – Barber shop booking website integrated with a centralized SaaS management platform.
 
 <!--
 **ruiffpereira/ruiffpereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
